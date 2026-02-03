@@ -17,7 +17,7 @@ Manual-first QA portfolio focused on clear bug reporting, exploratory testing, a
 - Bug tracking: GitHub Issues
 - Test documentation: Markdown / Google Docs-style formats
 - API basics: Postman (beginner)
-- SQL: basic querying for validation (beginner/intermediate depending on your comfort)
+- SQL: basic querying for data validation
 - Browser testing: Chrome DevTools, responsive checks, cross-browser sanity
 
 ## How I work
@@ -26,4 +26,4 @@ Manual-first QA portfolio focused on clear bug reporting, exploratory testing, a
 - Communicate calmly and precisely (no noise, no ego)
 
 ## Contact
-If you're a recruiter/hiring manager, you can reach me via GitHub.
+If you're a recruiter or hiring manager, feel free to reach out via GitHub.
