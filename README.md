@@ -1,29 +1,52 @@
-# CypherMorgan — Junior Software QA Tester
+# CypherMorgan — QA Tester (Manual + Automation)
 
-Manual-first QA portfolio focused on clear bug reporting, exploratory testing, and regression coverage.
+QA tester with 1.5+ years of experience in workflow validation and hands-on manual testing, with growing expertise in automation using Selenium (Python).
 
 ## What I do
-- Manual testing (web & basic mobile workflows)
-- Exploratory testing (charters, session notes, risk-based coverage)
-- Regression testing (checklists + repeatable test runs)
-- Bug reporting (repro steps, expected vs actual, impact, evidence)
-- Beginner exposure to automation (learning fundamentals, not claiming automation ownership)
 
-## Portfolio highlights
-- **Bug reports & real issue work:** See **qa-bug-reports**
-- **Manual QA artifacts (test cases, checklists, charters):** See **qa-manual-portfolio**
+- Manual testing (functional, exploratory, regression)
+- Test case design and execution
+- Bug reporting with clear reproduction steps and impact analysis
+- UI and workflow validation across browsers and devices
+- Basic API testing using Postman
+- Building automation frameworks using Selenium + PyTest
 
-## Tools I use (junior-safe)
-- Bug tracking: GitHub Issues
-- Test documentation: Markdown / Google Docs-style formats
-- API basics: Postman (beginner)
-- SQL: basic querying for data validation
-- Browser testing: Chrome DevTools, responsive checks, cross-browser sanity
+## Portfolio Highlights
+
+- Bug reports & real issue tracking: qa-bug-reports
+- Manual QA artifacts (test cases, checklists, exploratory notes): qa-manual-portfolio
+
+### Automation Projects
+
+- **BlazeDemo E2E (Selenium + PyTest)**
+  - End-to-end test automation for flight booking workflow
+  - Implemented Page Object Model for maintainability
+
+- **SauceDemo Automation Framework**
+  - Built reusable automation framework using Selenium & PyTest
+  - Automated login, product selection, and checkout flows
+
+- **DemoWebShop Automation Suite**
+  - Automated key user journeys (login, cart, checkout)
+  - Designed for regression-style validation
+
+## Tools & Technologies
+
+- Automation: Selenium WebDriver (Python), PyTest
+- Test Management & Bug Tracking: Jira (issue tracking & bug lifecycle), GitHub Issues
+- API Testing: Postman (basic)
+- Database: SQL (basic queries)
+- Browser Testing: Chrome DevTools, responsive & cross-browser testing
+- Reporting: Allure Reports
 
 ## How I work
+
 - Reproduce → isolate → document clearly
-- Prioritize by user impact + frequency + risk
-- Communicate calmly and precisely (no noise, no ego)
+- Focus on user impact, edge cases, and regression risk
+- Write structured, easy-to-understand bug reports
+- Continuously improving automation alongside manual testing
 
 ## Contact
-If you're a recruiter or hiring manager, feel free to reach out via GitHub.
+
+Open to QA opportunities (Manual / Automation)  
+Reach out via GitHub or email
