@@ -27,8 +27,8 @@ QA tester with 1.5+ years of experience in workflow validation and hands-on manu
   - Automated login, product selection, and checkout flows
 
 - **DemoWebShop Automation Suite**
-  - Automated key user journeys (login, cart, checkout)
-  - Designed for regression-style validation
+  - End-to-end automation covering UI, API, and hybrid test flows (login → cart → checkout)
+  - Built for scalable regression testing with CI/CD pipelines, parallel runs, and stability mechanisms
 
 ## Tools & Technologies
 
