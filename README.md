@@ -1,151 +1,106 @@
 # 🧪 CypherMorgan — QA Tester (Manual + Automation)
 
-QA Tester with **1.5+ years of experience** in manual testing and growing expertise in **automation using Selenium (Python)**.
-Focused on building **production-style automation frameworks, hybrid testing systems, and reliable QA pipelines**.
+QA Tester with **1.5+ years of experience** in manual testing and hands-on experience building **automation frameworks using Selenium (Python)**.
+Focused on creating **scalable QA systems, hybrid testing frameworks, and CI/CD-integrated pipelines**.
 
 ---
 
-# 🚀 Featured Project — Hybrid QA Automation Framework
+# 🚀 QA Automation Portfolio
 
-🔗 [https://github.com/CypherMorgan/hybrid-qa-automation-framework](https://github.com/CypherMorgan/hybrid-qa-automation-framework)
-
-A **production-ready Hybrid QA Automation Framework** combining UI, API, and CI/CD to simulate **real-world QA workflows**.
+## 🔥 Featured Projects
 
 ---
 
-## 🔥 Why This Project Stands Out
+## 🧩 Hybrid QA Automation Framework
 
-* Built like a **real industry framework**, not just test scripts
-* Combines **UI + API + CI/CD + reporting in one system**
-* Designed for **scalability, stability, and maintainability**
-* Handles **flaky tests and CI challenges effectively**
+[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-black?logo=github)](https://github.com/CypherMorgan/hybrid-qa-automation-framework)
+[![Allure](https://img.shields.io/badge/Allure-Live%20Report-purple)](https://cyphermorgan.github.io/hybrid-qa-automation-framework/)
+![Tech](https://img.shields.io/badge/UI%20%7C%20API%20%7C%20DB-Testing-blue)
 
----
+A **production-style hybrid QA framework** validating systems across:
 
-## ⚙️ Core Capabilities
+* UI (Selenium + PyTest)
+* API (Requests + Postman/Newman)
+* Database (SQL validation)
 
-* **UI Automation** → Selenium + PyTest
-* **API Testing** → Python Requests
-* **Postman Integration** → Newman execution
-* **Hybrid Testing** → UI + API combined flows
-* **CI/CD Pipeline** → GitHub Actions
-* **Parallel Execution** → pytest-xdist
-* **Retry Mechanism** → flaky test handling
-* **Reporting** → Allure (history + merge) + HTML
-* **Multi-browser Testing** → Chrome + Firefox
-* **Logging & Debugging** → logs + screenshots
-* **Environment-based Execution** → YAML + env variables
+### Highlights
+
+* CI/CD pipeline with GitHub Actions
+* Parallel execution + retry handling
+* Allure reporting with history
+* FastAPI mock server for stable testing
+* API ↔ DB validation
 
 ---
 
-## 🧱 Framework Design
+## ⚙️ Fullstack QA Automation Framework
 
-```
-Tests
-   ↓
-Page Objects (POM)
-   ↓
-Core Framework (Driver, Waits, Utilities)
-   ↓
-Config + Test Data
-```
+[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-black?logo=github)](https://github.com/CypherMorgan/fullstack-qa-automation-framework)
+![Tech](https://img.shields.io/badge/UI%20%7C%20API%20%7C%20E2E-Testing-blue)
 
-### Principles:
+A **full-stack QA automation framework** focused on **end-to-end system validation** across frontend and backend layers.
 
-* Page Object Model (POM)
-* Separation of concerns
-* Reusability
-* CI/CD readiness
-* Stability-first design
+### Highlights
+
+* End-to-end user workflows
+* UI + API integrated testing
+* Modular and scalable framework design
+* Data-driven testing approach
+* Real-world test scenario coverage
 
 ---
 
-## 🧪 Real-World Test Coverage
+# 🧠 What I Bring
 
-* Login & authentication flows
-* User registration
-* Full purchase journey (E2E)
-* API validation (positive + negative)
-* Hybrid UI + API scenarios
-
----
-
-## 📊 Live Report
-
-👉 [https://cyphermorgan.github.io/hybrid-qa-automation-framework/](https://cyphermorgan.github.io/hybrid-qa-automation-framework/)
-
-* Allure reports with history
-* Screenshots + execution steps
-* CI-integrated reporting
-
----
-
-## 🔍 What I Do
-
-* Manual Testing (Functional, Exploratory, Regression)
+* Manual Testing (Functional, Regression, Exploratory)
 * Test Case Design & Execution
-* Bug Reporting (clear steps + impact)
-* UI & Workflow Validation
-* API Testing (Postman + basic automation)
+* Bug Reporting (clear reproduction + impact)
+* UI Workflow Validation
+* API Testing (Postman + automation)
 * Automation Framework Development
 
 ---
 
-## 📂 Portfolio Highlights
+# 🧰 Tools & Technologies
+
+**Automation:** Selenium, PyTest
+**API:** Postman, Requests, Newman
+**Framework Design:** POM, Data-driven testing
+**Reporting:** Allure, pytest-html
+**CI/CD:** GitHub Actions
+**Backend/Other:** FastAPI, SQL (basic)
+**Tools:** Jira, GitHub Issues, DevTools
+
+---
+
+# 🧪 Other QA Work
 
 * 🔗 Bug Reports → `qa-bug-reports`
-* 📋 Manual QA Work → `qa-manual-portfolio`
+* 📋 Manual QA Portfolio → `qa-manual-portfolio`
 
 ---
 
-## ⚙️ Other Automation Projects
-
-### ✈️ BlazeDemo E2E
-
-* Flight booking automation
-* POM-based structure
-
-### 🛒 SauceDemo Framework
-
-* Reusable automation framework
-* Covers login → checkout flow
-
----
-
-## 🧰 Tools & Technologies
-
-* **Automation:** Selenium, PyTest
-* **API:** Postman, Requests
-* **QA:** Manual Testing, Test Design
-* **Tools:** Jira, GitHub Issues, DevTools
-* **Other:** SQL (basic), Allure Reports
-* **CI/CD:** GitHub Actions
-
----
-
-## 🧠 How I Work
+# 🧠 How I Work
 
 * Reproduce → isolate → document
 * Focus on **user impact + edge cases**
 * Write **clear, structured bug reports**
-* Build **stable, maintainable automation**
+* Build **stable and maintainable automation**
 * Continuously improving
 
 ---
 
-## 📫 Contact
+# 📫 Contact
 
 Open to **QA roles (Manual / Automation)**
 
-* GitHub: [https://github.com/CypherMorgan](https://github.com/CypherMorgan)
+* GitHub: https://github.com/CypherMorgan
 
 ---
 
-## ⚡ Focus
+# ⚡ Focus Areas
 
-Strong focus on:
-
-* Hybrid Testing (UI + API)
+* Hybrid Testing (UI + API + DB)
 * Automation Framework Design
-* CI/CD & QA pipelines
+* CI/CD for QA pipelines
 * Stability & flaky test handling
