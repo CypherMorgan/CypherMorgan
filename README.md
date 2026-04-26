@@ -1,52 +1,152 @@
-# CypherMorgan — QA Tester (Manual + Automation)
+# 🧪 CypherMorgan — QA Tester (Manual + Automation)
 
-QA tester with 1.5+ years of experience in workflow validation and hands-on manual testing, with growing expertise in automation using Selenium (Python).
+QA Tester with **1.5+ years of experience** in manual testing and growing expertise in **automation using Selenium (Python)**.
+Focused on building **production-style automation frameworks, hybrid testing systems, and reliable QA pipelines**.
 
-## What I do
+---
 
-- Manual testing (functional, exploratory, regression)
-- Test case design and execution
-- Bug reporting with clear reproduction steps and impact analysis
-- UI and workflow validation across browsers and devices
-- Basic API testing using Postman
-- Building automation frameworks using Selenium + PyTest
+# 🚀 Featured Project — Hybrid QA Automation Framework
 
-## Portfolio Highlights
+🔗 [https://github.com/CypherMorgan/hybrid-qa-automation-framework](https://github.com/CypherMorgan/hybrid-qa-automation-framework)
 
-- Bug reports & real issue tracking: qa-bug-reports
-- Manual QA artifacts (test cases, checklists, exploratory notes): qa-manual-portfolio
+A **production-ready Hybrid QA Automation Framework** combining UI, API, and CI/CD to simulate **real-world QA workflows**.
 
-### Automation Projects
+---
 
-- **BlazeDemo E2E (Selenium + PyTest)**
-  - End-to-end test automation for flight booking workflow
-  - Implemented Page Object Model for maintainability
+## 🔥 Why This Project Stands Out
 
-- **SauceDemo Automation Framework**
-  - Built reusable automation framework using Selenium & PyTest
-  - Automated login, product selection, and checkout flows
+* Built like a **real industry framework**, not just test scripts
+* Combines **UI + API + CI/CD + reporting in one system**
+* Designed for **scalability, stability, and maintainability**
+* Handles **flaky tests and CI challenges effectively**
 
-- **DemoWebShop Automation Suite**
-  - End-to-end automation covering UI, API, and hybrid test flows (login → cart → checkout)
-  - Built for scalable regression testing with CI/CD pipelines, parallel runs, and stability mechanisms
+---
 
-## Tools & Technologies
+## ⚙️ Core Capabilities
 
-- Automation: Selenium WebDriver (Python), PyTest
-- Test Management & Bug Tracking: Jira (issue tracking & bug lifecycle), GitHub Issues
-- API Testing: Postman (basic)
-- Database: SQL (basic queries)
-- Browser Testing: Chrome DevTools, responsive & cross-browser testing
-- Reporting: Allure Reports
+* **UI Automation** → Selenium + PyTest
+* **API Testing** → Python Requests
+* **Postman Integration** → Newman execution
+* **Hybrid Testing** → UI + API combined flows
+* **CI/CD Pipeline** → GitHub Actions
+* **Parallel Execution** → pytest-xdist
+* **Retry Mechanism** → flaky test handling
+* **Reporting** → Allure (history + merge) + HTML
+* **Multi-browser Testing** → Chrome + Firefox
+* **Logging & Debugging** → logs + screenshots
+* **Environment-based Execution** → YAML + env variables
 
-## How I work
+---
 
-- Reproduce → isolate → document clearly
-- Focus on user impact, edge cases, and regression risk
-- Write structured, easy-to-understand bug reports
-- Continuously improving automation alongside manual testing
+## 🧱 Framework Design
 
-## Contact
+```
+Tests
+   ↓
+Page Objects (POM)
+   ↓
+Core Framework (Driver, Waits, Utilities)
+   ↓
+Config + Test Data
+```
 
-Open to QA opportunities (Manual / Automation)  
-Reach out via GitHub or email
+### Principles:
+
+* Page Object Model (POM)
+* Separation of concerns
+* Reusability
+* CI/CD readiness
+* Stability-first design
+
+---
+
+## 🧪 Real-World Test Coverage
+
+* Login & authentication flows
+* User registration
+* Full purchase journey (E2E)
+* API validation (positive + negative)
+* Hybrid UI + API scenarios
+
+---
+
+## 📊 Live Report
+
+👉 [https://cyphermorgan.github.io/hybrid-qa-automation-framework/](https://cyphermorgan.github.io/hybrid-qa-automation-framework/)
+
+* Allure reports with history
+* Screenshots + execution steps
+* CI-integrated reporting
+
+---
+
+## 🔍 What I Do
+
+* Manual Testing (Functional, Exploratory, Regression)
+* Test Case Design & Execution
+* Bug Reporting (clear steps + impact)
+* UI & Workflow Validation
+* API Testing (Postman + basic automation)
+* Automation Framework Development
+
+---
+
+## 📂 Portfolio Highlights
+
+* 🔗 Bug Reports → `qa-bug-reports`
+* 📋 Manual QA Work → `qa-manual-portfolio`
+
+---
+
+## ⚙️ Other Automation Projects
+
+### ✈️ BlazeDemo E2E
+
+* Flight booking automation
+* POM-based structure
+
+### 🛒 SauceDemo Framework
+
+* Reusable automation framework
+* Covers login → checkout flow
+
+---
+
+## 🧰 Tools & Technologies
+
+* **Automation:** Selenium, PyTest
+* **API:** Postman, Requests
+* **QA:** Manual Testing, Test Design
+* **Tools:** Jira, GitHub Issues, DevTools
+* **Other:** SQL (basic), Allure Reports
+* **CI/CD:** GitHub Actions
+
+---
+
+## 🧠 How I Work
+
+* Reproduce → isolate → document
+* Focus on **user impact + edge cases**
+* Write **clear, structured bug reports**
+* Build **stable, maintainable automation**
+* Continuously improving
+
+---
+
+## 📫 Contact
+
+Open to **QA roles (Manual / Automation)**
+
+* GitHub: [https://github.com/CypherMorgan](https://github.com/CypherMorgan)
+* Email: *(add your email)*
+
+---
+
+## ⚡ Focus
+
+Strong focus on:
+
+* Hybrid Testing (UI + API)
+* Automation Framework Design
+* CI/CD & QA pipelines
+* Stability & flaky test handling
