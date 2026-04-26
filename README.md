@@ -46,7 +46,6 @@ View Allure Report:
 ## 🧩 Hybrid QA Automation Framework
 
 [![Repo](https://img.shields.io/badge/GitHub-View%20Repo-black?logo=github)](https://github.com/CypherMorgan/hybrid-qa-automation-framework)
-[![Allure](https://img.shields.io/badge/Allure-Live%20Report-purple)](https://cyphermorgan.github.io/hybrid-qa-automation-framework/)
 ![CI](https://github.com/CypherMorgan/hybrid-qa-automation-framework/actions/workflows/tests.yml/badge.svg)
 
 A **production-style hybrid QA framework** validating systems across:
