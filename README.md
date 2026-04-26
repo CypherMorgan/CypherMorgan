@@ -138,7 +138,6 @@ Config + Test Data
 Open to **QA roles (Manual / Automation)**
 
 * GitHub: [https://github.com/CypherMorgan](https://github.com/CypherMorgan)
-* Email: *(add your email)*
 
 ---
 
