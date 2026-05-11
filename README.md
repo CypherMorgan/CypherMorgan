@@ -74,7 +74,7 @@ A hybrid QA automation framework focused on UI and API validation workflows.
 
 ## 📸 Allure Report Preview
 
-![Allure Report]([images/allure-report.png](https://github.com/CypherMorgan/hybrid-qa-automation-framework/blob/main/reports/report-preview.png))
+![Allure Report](https://github.com/CypherMorgan/hybrid-qa-automation-framework/blob/main/reports/report-preview.png)
 
 ---
 
