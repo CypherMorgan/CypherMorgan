@@ -1,7 +1,7 @@
-# 🧪 CypherMorgan — QA Automation Engineer (Manual + Automation)
+# 🧪 CypherMorgan — QA Automation Engineer
 
-QA Automation Engineer with **1.5+ years of experience** in manual testing and hands-on experience in **automation framework development**.
-Focused on creating **scalable QA systems, hybrid testing frameworks, and CI/CD-integrated pipelines**.
+QA Automation Engineer focused on Selenium, Python, API testing, and CI/CD-integrated automation workflows.
+I build maintainable automation frameworks for UI, API, and backend validation with a focus on regression reliability, workflow stability, and scalable test execution.
 
 ---
 
@@ -16,7 +16,7 @@ Focused on creating **scalable QA systems, hybrid testing frameworks, and CI/CD-
 [![Repo](https://img.shields.io/badge/GitHub-View%20Repo-black?logo=github)](https://github.com/CypherMorgan/fullstack-qa-automation-framework)
 ![Tech](https://img.shields.io/badge/UI%20%7C%20API%20%7C%20E2E-Testing-blue)
 
-A **full-stack QA automation framework** focused on **end-to-end system validation** across frontend and backend layers.
+A **QA automation framework** focused on **end-to-end system validation** across frontend and backend layers.
 
 ### Highlights
 
@@ -48,7 +48,7 @@ View Allure Report:
 [![Repo](https://img.shields.io/badge/GitHub-View%20Repo-black?logo=github)](https://github.com/CypherMorgan/hybrid-qa-automation-framework)
 ![CI](https://github.com/CypherMorgan/hybrid-qa-automation-framework/actions/workflows/tests.yml/badge.svg)
 
-A **production-style hybrid QA framework** validating systems across:
+A hybrid QA automation framework focused on UI and API validation workflows.
 
 * UI (Selenium + PyTest)
 * API (Requests + Postman/Newman)
@@ -72,8 +72,9 @@ A **production-style hybrid QA framework** validating systems across:
 
 ## 📊 Sample Test Report
 
-View Allure Report:
-[https://cyphermorgan.github.io/hybrid-qa-automation-framework/](https://cyphermorgan.github.io/hybrid-qa-automation-framework/)
+## 📸 Allure Report Preview
+
+![Allure Report]([images/allure-report.png](https://github.com/CypherMorgan/hybrid-qa-automation-framework/blob/main/reports/report-preview.png))
 
 ---
 
@@ -81,8 +82,8 @@ View Allure Report:
 
 * Designing scalable automation frameworks
 * Building hybrid testing systems (UI + API)
-* Developing fullstack testing frameworks (UI + API + DB)
-* Implementing CI/CD pipelines for automated testing
+* Building automation workflows across UI, API, and backend layers
+* Integrating automated test execution into CI/CD pipelines
 * Improving test reliability and reducing flakiness
 * Validating end-to-end system workflows
 
@@ -110,10 +111,10 @@ View Allure Report:
 # 🧠 How I Work
 
 * Reproduce → isolate → document
-* Focus on **user impact + edge cases**
-* Write **clear, structured bug reports**
-* Build **stable and maintainable automation**
-* Continuously improving
+* Focus on user impact and workflow reliability
+* Write clear, reproducible bug reports
+* Build stable and maintainable automation workflows
+* Prioritize reliability over brittle test coverage
 
 ---
 
@@ -127,7 +128,7 @@ Open to **Remote SDET / QA Automation Roles**
 
 # ⚡ Focus Areas
 
-* Hybrid Testing (UI + API + DB)
+* Multi-layer Testing (UI + API + DB)
 * Automation Framework Design
 * CI/CD for QA pipelines
 * Stability & flaky test handling
