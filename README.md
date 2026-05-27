@@ -1,13 +1,14 @@
-# 🧪 CypherMorgan — QA Automation Engineer
+# 🧪 CypherMorgan — SDET | QA Automation Engineer
 
-QA Automation Engineer focused on Selenium, Python, API testing, and CI/CD-integrated automation workflows.
-I build maintainable automation frameworks for UI, API, and backend validation with a focus on regression reliability, workflow stability, and scalable test execution.
+SDET focused on building scalable automation frameworks for UI, API, database, and end-to-end system validation.
+
+Experienced in designing enterprise-style QA infrastructure using Python, PyTest, Selenium, Docker, GitHub Actions, and Allure reporting with CI/CD-integrated execution pipelines.
+
+Passionate about reliable automation, test architecture, workflow stability, and maintainable quality engineering systems.
 
 ---
 
-# 🚀 QA Automation Portfolio
-
-## 🔥 Featured Projects
+# 🚀 Featured Engineering Projects
 
 ---
 
@@ -16,25 +17,36 @@ I build maintainable automation frameworks for UI, API, and backend validation w
 [![Repo](https://img.shields.io/badge/GitHub-View%20Repo-black?logo=github)](https://github.com/CypherMorgan/fullstack-qa-automation-framework)
 ![Tech](https://img.shields.io/badge/UI%20%7C%20API%20%7C%20E2E-Testing-blue)
 
-A **QA automation framework** focused on **end-to-end system validation** across frontend and backend layers.
+Enterprise-style automation framework designed for scalable end-to-end validation across UI, API, database, and containerized environments.
 
-### Highlights
+### 🔹 Engineering Highlights
 
-* End-to-end workflow validation across UI, API, and backend layers
-* Integrated UI and API testing within unified test flows
-* Scalable and modular framework design using POM architecture
-* Parallel test execution for faster and more efficient test runs
-* CI/CD integration for automated execution on every commit
-* Data-driven testing for flexible and reusable test scenarios
+- Designed a modular automation architecture using Python, PyTest, and Selenium WebDriver with Page Object Model (POM)
+- Built integrated UI + API + database validation workflows for complete end-to-end system testing
+- Implemented API automation using Requests, Postman, and Newman CLI execution
+- Added SQLite database validation layer for backend data integrity verification
+- Developed FastAPI mock services for isolated and reproducible testing environments
+- Enabled distributed browser execution using Selenium Grid standalone Chrome containers
+- Dockerized the complete automation stack using Docker Compose for environment consistency
+- Configured parallel execution with pytest-xdist to improve execution efficiency
+- Implemented Allure reporting with screenshots, logs, traceback details, and page source attachments
+- Integrated GitHub Actions CI/CD pipelines for automated regression execution
+- Published hosted Allure reports through GitHub Pages deployment workflows
+- Added retry handling, logging utilities, persistent artifacts, and environment-based configuration management
 
-### Architecture Overview
+### 🔹 Architecture
 
-- Test Layer: PyTest-based test execution
-- UI Layer: Selenium WebDriver with POM design
-- API Layer: Requests + Postman collections
-- Data Layer: SQL validation for backend data integrity
-- Reporting: Allure Reports with logs and screenshots
-- CI/CD: GitHub Actions for automated pipeline execution
+- UI Automation Layer
+- API Validation Layer
+- Database Validation Layer
+- Mock Services Layer
+- Docker Orchestration Layer
+- Reporting & Observability Layer
+- CI/CD Automation Layer
+
+### 🔹 Tech Stack
+
+Python • PyTest • Selenium • Requests • Postman • Newman • FastAPI • SQLite • Docker • Docker Compose • GitHub Actions • Allure Reports • pytest-xdist
 
 ## 📊 Sample Test Report
 
@@ -89,15 +101,25 @@ A hybrid QA automation framework focused on UI and API validation workflows.
 
 ---
 
-# 🧰 Tools & Technologies
+## 🧰 Technical Skills
 
-**Automation:** Selenium, PyTest
-**API:** Postman, Requests, Newman
-**Framework Design:** POM, Data-driven testing
-**Reporting:** Allure, pytest-html
-**CI/CD:** GitHub Actions
-**Backend/Other:** FastAPI, SQL (basic)
-**Tools:** Jira, GitHub Issues, DevTools
+### Automation & Testing
+Python, PyTest, Selenium WebDriver, API Testing, Postman, Newman, Requests, End-to-End Testing, Regression Testing, Data-Driven Testing
+
+### Framework & Architecture
+Page Object Model (POM), Hybrid Framework Design, Test Infrastructure Design, Modular Automation Architecture
+
+### DevOps & CI/CD
+GitHub Actions, Docker, Docker Compose, Selenium Grid, CI/CD Pipelines, Parallel Test Execution
+
+### Reporting & Observability
+Allure Reports, Logging Utilities, Screenshot Capture, Traceback Analysis, Artifact Management
+
+### Backend & Database
+FastAPI, SQLite, SQL Validation, Mock Services
+
+### Tools
+Git, GitHub, Jira, Chrome DevTools
 
 ---
 
