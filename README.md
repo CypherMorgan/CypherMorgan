@@ -1,156 +1,140 @@
-# 🧪 CypherMorgan — SDET | QA Automation Engineer
+# 🧪 CypherMorgan — QA Automation Engineer | SDET
 
-SDET focused on building scalable automation frameworks for UI, API, database, and end-to-end system validation.
+QA Automation Engineer focused on building scalable Quality Engineering platforms for UI, API, database, accessibility, visual, and end-to-end system validation.
 
-Experienced in designing enterprise-style QA infrastructure using Python, PyTest, Selenium, Docker, GitHub Actions, and Allure reporting with CI/CD-integrated execution pipelines.
+Experienced in designing modern automation frameworks using Playwright, Python, PyTest, Docker, GitHub Actions, SQLAlchemy, and Allure Reporting with CI/CD-integrated execution pipelines.
 
-Passionate about reliable automation, test architecture, workflow stability, and maintainable quality engineering systems.
+Passionate about automation architecture, quality engineering practices, test reliability, and maintainable testing systems.
 
 ---
 
-# 🚀 Featured Engineering Projects
+# 🚀 Featured Projects
+
+---
+
+## 🏆 Nexus Quality Engineering Platform
+
+[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-black?logo=github)](https://github.com/CypherMorgan/nexus-quality-engineering-platform)
+
+Production-inspired Quality Engineering platform designed around modern SDET practices and multi-layer validation.
+
+### Engineering Highlights
+
+* Built a Playwright + PyTest automation platform supporting UI, API, database, accessibility, visual, and end-to-end testing
+* Implemented reusable Page Object Model architecture with browser abstraction and environment-driven execution
+* Developed API automation framework with request builders, authentication clients, schema validation, and contract testing foundations
+* Created database validation layer using SQLAlchemy with reusable query execution and assertion utilities
+* Integrated accessibility validation using axe-core and automated accessibility scanning
+* Added visual regression testing with baseline comparison workflows
+* Implemented structured logging, observability utilities, execution metrics, and reporting integrations
+* Containerized execution using Docker and Docker Compose
+* Designed CI/CD workflows for smoke, regression, scheduled execution, and artifact collection
+* Integrated Allure reporting with screenshots, traces, environment metadata, and execution analytics
+
+### Architecture
+
+* UI Automation Layer
+* API Testing Layer
+* Database Validation Layer
+* Accessibility Testing Layer
+* Visual Testing Layer
+* Reporting & Observability Layer
+* Docker Execution Layer
+* CI/CD Automation Layer
+
+### Tech Stack
+
+Playwright • Python • PyTest • FastAPI • SQLAlchemy • SQLite • Docker • Docker Compose • GitHub Actions • Allure Reports • pytest-xdist • Axe-Core
 
 ---
 
 ## ⚙️ Fullstack QA Automation Framework
 
 [![Repo](https://img.shields.io/badge/GitHub-View%20Repo-black?logo=github)](https://github.com/CypherMorgan/fullstack-qa-automation-framework)
-![Tech](https://img.shields.io/badge/UI%20%7C%20API%20%7C%20E2E-Testing-blue)
 
-Enterprise-style automation framework designed for scalable end-to-end validation across UI, API, database, and containerized environments.
-
-### 🔹 Engineering Highlights
-
-- Designed a modular automation architecture using Python, PyTest, and Selenium WebDriver with Page Object Model (POM)
-- Built integrated UI + API + database validation workflows for complete end-to-end system testing
-- Implemented API automation using Requests, Postman, and Newman CLI execution
-- Added SQLite database validation layer for backend data integrity verification
-- Developed FastAPI mock services for isolated and reproducible testing environments
-- Enabled distributed browser execution using Selenium Grid standalone Chrome containers
-- Dockerized the complete automation stack using Docker Compose for environment consistency
-- Configured parallel execution with pytest-xdist to improve execution efficiency
-- Implemented Allure reporting with screenshots, logs, traceback details, and page source attachments
-- Integrated GitHub Actions CI/CD pipelines for automated regression execution
-- Published hosted Allure reports through GitHub Pages deployment workflows
-- Added retry handling, logging utilities, persistent artifacts, and environment-based configuration management
-
-### 🔹 Architecture
-
-- UI Automation Layer
-- API Validation Layer
-- Database Validation Layer
-- Mock Services Layer
-- Docker Orchestration Layer
-- Reporting & Observability Layer
-- CI/CD Automation Layer
-
-### 🔹 Tech Stack
-
-Python • PyTest • Selenium • Requests • Postman • Newman • FastAPI • SQLite • Docker • Docker Compose • GitHub Actions • Allure Reports • pytest-xdist
-
-## 📊 Sample Test Report
-
-View Allure Report:
-[https://cyphermorgan.github.io/fullstack-qa-automation-framework/](https://cyphermorgan.github.io/fullstack-qa-automation-framework/)
-
----
-
-## 🧩 Hybrid QA Automation Framework
-
-[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-black?logo=github)](https://github.com/CypherMorgan/hybrid-qa-automation-framework)
-![CI](https://github.com/CypherMorgan/hybrid-qa-automation-framework/actions/workflows/tests.yml/badge.svg)
-
-A hybrid QA automation framework focused on UI and API validation workflows.
-
-* UI (Selenium + PyTest)
-* API (Requests + Postman/Newman)
+Automation framework supporting UI, API, database, and end-to-end workflow validation.
 
 ### Highlights
 
-* Hybrid framework combining UI and API automation for end-to-end testing
-* Automated business workflows across frontend and backend systems
-* Integrated Postman + Newman CLI for API test execution
-* Parallel test execution with retry handling for stability
-* CI/CD pipeline using GitHub Actions for continuous testing
-* Allure reporting with detailed logs and execution history
+* Modular automation architecture using Selenium, PyTest, and Page Object Model design
+* API automation using Requests, Postman, and Newman
+* Database validation using SQLite
+* Dockerized execution using Selenium Grid and Docker Compose
+* Parallel execution with pytest-xdist
+* GitHub Actions CI/CD integration
+* Allure reporting with screenshots, logs, and execution artifacts
 
-### Architecture Overview
+### Tech Stack
 
-- Test Layer: PyTest-based test execution
-- UI Layer: Selenium WebDriver with POM design
-- API Layer: Requests + Postman collections
-- Reporting: Allure Reports with logs and screenshots
-- CI/CD: GitHub Actions for automated pipeline execution
-
-## 📊 Sample Test Report
-
-## 📸 Allure Report Preview
-
-![Allure Report](https://github.com/CypherMorgan/hybrid-qa-automation-framework/blob/main/reports/report-preview.png)
+Python • Selenium • PyTest • Requests • Postman • Newman • SQLite • Docker • Selenium Grid • GitHub Actions • Allure Reports
 
 ---
 
 # 🧠 Core Strengths
 
-* Designing scalable automation frameworks
-* Building hybrid testing systems (UI + API)
-* Building automation workflows across UI, API, and backend layers
-* Integrating automated test execution into CI/CD pipelines
-* Improving test reliability and reducing flakiness
-* Validating end-to-end system workflows
+* Automation Framework Development
+* Playwright Automation
+* API Testing & Validation
+* Database Testing
+* Accessibility Testing
+* Visual Regression Testing
+* End-to-End Workflow Validation
+* Dockerized Test Execution
+* CI/CD Test Automation
+* Test Architecture & Quality Engineering
 
 ---
 
-## 🧰 Technical Skills
+# 🧰 Technical Skills
+
+### Languages
+
+Python • SQL
 
 ### Automation & Testing
-Python, PyTest, Selenium WebDriver, API Testing, Postman, Newman, Requests, End-to-End Testing, Regression Testing, Data-Driven Testing
 
-### Framework & Architecture
-Page Object Model (POM), Hybrid Framework Design, Test Infrastructure Design, Modular Automation Architecture
+Playwright • Selenium WebDriver • PyTest • API Testing • Requests • Postman • Newman • Data-Driven Testing • Cross-Browser Testing • Regression Testing • End-to-End Testing
+
+### Quality Engineering
+
+Accessibility Testing • Visual Testing • Database Validation • Schema Validation • Contract Testing • Test Reporting
 
 ### DevOps & CI/CD
-GitHub Actions, Docker, Docker Compose, Selenium Grid, CI/CD Pipelines, Parallel Test Execution
+
+Docker • Docker Compose • GitHub Actions • Parallel Execution (pytest-xdist) • CI/CD Pipelines
 
 ### Reporting & Observability
-Allure Reports, Logging Utilities, Screenshot Capture, Traceback Analysis, Artifact Management
+
+Allure Reports • Structured Logging • Trace Collection • Screenshot Capture • Execution Analytics
 
 ### Backend & Database
-FastAPI, SQLite, SQL Validation, Mock Services
+
+FastAPI • SQLAlchemy • SQLite
 
 ### Tools
-Git, GitHub, Jira, Chrome DevTools
+
+Git • GitHub • Jira • Chrome DevTools
 
 ---
 
-# 🧪 Other QA Work
+# 📫 Open To
 
-* 🔗 Bug Reports → `qa-bug-reports`
-* 📋 Manual QA Portfolio → `qa-manual-portfolio`
+Remote QA Automation Engineer
 
----
+Remote SDET
 
-# 🧠 How I Work
+Quality Engineer
 
-* Reproduce → isolate → document
-* Focus on user impact and workflow reliability
-* Write clear, reproducible bug reports
-* Build stable and maintainable automation workflows
-* Prioritize reliability over brittle test coverage
+Software Test Engineer
+
+Python-based QA Automation Roles
 
 ---
 
-# 📫 Contact
+# ⚡ Current Focus
 
-Open to **Remote SDET / QA Automation Roles**
-
-* GitHub: https://github.com/CypherMorgan
-
----
-
-# ⚡ Focus Areas
-
-* Multi-layer Testing (UI + API + DB)
-* Automation Framework Design
-* CI/CD for QA pipelines
-* Stability & flaky test handling
+* Playwright Automation
+* Quality Engineering Platforms
+* API & Database Validation
+* CI/CD Test Infrastructure
+* Reliability Engineering for Test Systems
