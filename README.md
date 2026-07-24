@@ -62,11 +62,11 @@ Production-inspired Quality Engineering platform designed around modern SDET pra
 
 ---
 
-### ⚡ QPilot — AI-Powered Quality Engineering Platform
+### ⚡ CypherPilot — AI-Powered Quality Engineering Platform
 
-[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-6C63FF?logo=github)](https://github.com/CypherMorgan/qpilot)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-00D9A6?logo=google-chrome)](https://cyphermorgan.github.io/qpilot/)
-[![CI](https://github.com/CypherMorgan/qpilot/actions/workflows/ci.yml/badge.svg)](https://github.com/CypherMorgan/qpilot/actions/workflows/ci.yml)
+[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-6C63FF?logo=github)](https://github.com/CypherMorgan/cypherpilot)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-00D9A6?logo=google-chrome)](https://cyphermorgan.github.io/cypherpilot/)
+[![CI](https://github.com/CypherMorgan/cypherpilot/actions/workflows/ci.yml/badge.svg)](https://github.com/CypherMorgan/cypherpilot/actions/workflows/ci.yml)
 [![Python 3.12](https://img.shields.io/badge/Python-3.12-3776AB?logo=python)](https://python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.115-009688?logo=fastapi)](https://fastapi.tiangolo.com/)
 [![React](https://img.shields.io/badge/React-19-61DAFB?logo=react)](https://react.dev/)
@@ -93,7 +93,7 @@ Production-inspired Quality Engineering platform designed around modern SDET pra
 **Tech Stack:**
 `Python 3.12` • `FastAPI` • `Pydantic v2` • `SQLAlchemy 2.0` • `PostgreSQL 16` • `React 19` • `TypeScript` • `Vite` • `TanStack Query` • `Tailwind CSS` • `Docker Compose` • `Alembic` • `Ollama` • `OpenRouter` • `structlog` • `httpx` • `194+ Tests`
 
-> **Live demo:** [cyphermorgan.github.io/qpilot](https://cyphermorgan.github.io/qpilot/)
+> **Live demo:** [cyphermorgan.github.io/cypherpilot](https://cyphermorgan.github.io/cypherpilot/)
 >
 > *Note: The GitHub Pages site is a static UI preview. API features require a running backend.*
 
@@ -242,10 +242,10 @@ The **Nexus Quality Engineering Platform** is a production-inspired QE platform 
 </details>
 
 <details>
-<summary><strong>What is QPilot?</strong></summary>
+<summary><strong>What is cypherpilot?</strong></summary>
 <br>
 
-**QPilot** is an **AI-powered Quality Engineering platform** that helps QA engineers analyze requirements, generate automated API test suites, and diagnose automation failures. Features a **provider-agnostic AI infrastructure** supporting Ollama (local) and OpenRouter (cloud), FastAPI async backend, React + TypeScript frontend, Docker Compose deployment, and 194+ automated tests. [Live demo](https://cyphermorgan.github.io/qpilot/) | [GitHub](https://github.com/CypherMorgan/qpilot).
+**cypherpilot** is an **AI-powered Quality Engineering platform** that helps QA engineers analyze requirements, generate automated API test suites, and diagnose automation failures. Features a **provider-agnostic AI infrastructure** supporting Ollama (local) and OpenRouter (cloud), FastAPI async backend, React + TypeScript frontend, Docker Compose deployment, and 194+ automated tests. [Live demo](https://cyphermorgan.github.io/cypherpilot/) | [GitHub](https://github.com/CypherMorgan/cypherpilot).
 
 </details>
 
@@ -314,7 +314,7 @@ The **Nexus Quality Engineering Platform** is a production-inspired QE platform 
 ### 💬 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-%40CypherMorgan-6C63FF?style=for-the-badge&logo=github)](https://github.com/CypherMorgan)
-[![QPilot Demo](https://img.shields.io/badge/QPilot-Live%20Demo-00D9A6?style=for-the-badge&logo=google-chrome)](https://cyphermorgan.github.io/qpilot/)
+[![CypherPilot Demo](https://img.shields.io/badge/CypherPilot-Live%20Demo-00D9A6?style=for-the-badge&logo=google-chrome)](https://cyphermorgan.github.io/cypherpilot/)
 
 <br>
 
